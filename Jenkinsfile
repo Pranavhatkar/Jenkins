@@ -13,7 +13,7 @@ pipeline {
         }
         stage('deploy'){
             steps{
-            echo 'rutuja'
+            echo 'rutuja hi'
         }
         }
         }
